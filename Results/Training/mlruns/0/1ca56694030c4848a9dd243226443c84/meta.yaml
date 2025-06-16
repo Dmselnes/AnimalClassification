@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1ca56694030c4848a9dd243226443c84/artifacts
+end_time: 1744570560076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ca56694030c4848a9dd243226443c84
+run_name: stylish-hen-530
+run_uuid: 1ca56694030c4848a9dd243226443c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744570429832
+status: 3
+tags: []
+user_id: vscode

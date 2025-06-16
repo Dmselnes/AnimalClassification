@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2ab29d0c30df4b3db7fffdad97d31321/artifacts
+end_time: 1744590427352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ab29d0c30df4b3db7fffdad97d31321
+run_name: gaudy-shrike-815
+run_uuid: 2ab29d0c30df4b3db7fffdad97d31321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744589596653
+status: 3
+tags: []
+user_id: vscode

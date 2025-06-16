@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/99ca193efb154d65a10b120b97cf22fd/artifacts
+end_time: 1744587224799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99ca193efb154d65a10b120b97cf22fd
+run_name: serious-koi-330
+run_uuid: 99ca193efb154d65a10b120b97cf22fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744587096233
+status: 3
+tags: []
+user_id: vscode

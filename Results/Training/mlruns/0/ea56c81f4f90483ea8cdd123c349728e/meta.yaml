@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ea56c81f4f90483ea8cdd123c349728e/artifacts
+end_time: 1744582088235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea56c81f4f90483ea8cdd123c349728e
+run_name: bright-wasp-736
+run_uuid: ea56c81f4f90483ea8cdd123c349728e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744581261367
+status: 3
+tags: []
+user_id: vscode

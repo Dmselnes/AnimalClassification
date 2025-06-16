@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/33f984d448db4c6aa6630e6758ead773/artifacts
+end_time: 1744601592958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33f984d448db4c6aa6630e6758ead773
+run_name: unique-lamb-827
+run_uuid: 33f984d448db4c6aa6630e6758ead773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744600956610
+status: 3
+tags: []
+user_id: vscode

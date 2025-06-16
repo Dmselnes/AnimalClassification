@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/206914922312665983
+creation_time: 1744661277490
+experiment_id: '206914922312665983'
+last_update_time: 1744661277490
+lifecycle_stage: active
+name: Test-ViT-Image-Classification

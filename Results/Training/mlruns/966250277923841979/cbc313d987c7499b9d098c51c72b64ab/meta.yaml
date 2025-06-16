@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/966250277923841979/cbc313d987c7499b9d098c51c72b64ab/artifacts
+end_time: 1745778155434
+entry_point_name: ''
+experiment_id: '966250277923841979'
+lifecycle_stage: active
+run_id: cbc313d987c7499b9d098c51c72b64ab
+run_name: inquisitive-fawn-338
+run_uuid: cbc313d987c7499b9d098c51c72b64ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745661452603
+status: 3
+tags: []
+user_id: vscode

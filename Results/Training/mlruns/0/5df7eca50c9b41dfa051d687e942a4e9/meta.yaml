@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5df7eca50c9b41dfa051d687e942a4e9/artifacts
+deleted_time: 1744664768522
+end_time: 1744663822357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5df7eca50c9b41dfa051d687e942a4e9
+run_name: zealous-sponge-35
+run_uuid: 5df7eca50c9b41dfa051d687e942a4e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744663820629
+status: 4
+tags: []
+user_id: vscode

@@ -1,0 +1,16 @@
+artifact_uri: file:///workspace/mlruns/479007200546580569/e79d2ef4061348c697460a9dbeddfb36/artifacts
+deleted_time: 1744790270125
+end_time: 1744789296741
+entry_point_name: ''
+experiment_id: '479007200546580569'
+lifecycle_stage: deleted
+run_id: e79d2ef4061348c697460a9dbeddfb36
+run_name: sassy-shad-243
+run_uuid: e79d2ef4061348c697460a9dbeddfb36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744789234902
+status: 4
+tags: []
+user_id: vscode

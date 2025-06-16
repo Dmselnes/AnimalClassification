@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/93cd4748314d4d32b08a912f180637f5/artifacts
+deleted_time: 1744568505147
+end_time: 1744567787764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 93cd4748314d4d32b08a912f180637f5
+run_name: beautiful-mink-420
+run_uuid: 93cd4748314d4d32b08a912f180637f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744567633138
+status: 4
+tags: []
+user_id: vscode

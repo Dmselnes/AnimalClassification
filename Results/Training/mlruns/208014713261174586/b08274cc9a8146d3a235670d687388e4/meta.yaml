@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/208014713261174586/b08274cc9a8146d3a235670d687388e4/artifacts
+end_time: 1745280811347
+entry_point_name: ''
+experiment_id: '208014713261174586'
+lifecycle_stage: active
+run_id: b08274cc9a8146d3a235670d687388e4
+run_name: kindly-asp-746
+run_uuid: b08274cc9a8146d3a235670d687388e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745158207681
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/966250277923841979/f2e498c850754d68aff9255873ce226b/artifacts
+end_time: 1745827859901
+entry_point_name: ''
+experiment_id: '966250277923841979'
+lifecycle_stage: active
+run_id: f2e498c850754d68aff9255873ce226b
+run_name: amazing-flea-724
+run_uuid: f2e498c850754d68aff9255873ce226b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745778155461
+status: 3
+tags: []
+user_id: vscode

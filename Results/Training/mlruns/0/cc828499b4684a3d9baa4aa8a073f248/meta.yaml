@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cc828499b4684a3d9baa4aa8a073f248/artifacts
+end_time: 1744578601244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc828499b4684a3d9baa4aa8a073f248
+run_name: serious-stag-30
+run_uuid: cc828499b4684a3d9baa4aa8a073f248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744577921609
+status: 3
+tags: []
+user_id: vscode

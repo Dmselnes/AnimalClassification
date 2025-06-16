@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/443136092837097542
+creation_time: 1746365149508
+experiment_id: '443136092837097542'
+last_update_time: 1746365149508
+lifecycle_stage: active
+name: convnext-large

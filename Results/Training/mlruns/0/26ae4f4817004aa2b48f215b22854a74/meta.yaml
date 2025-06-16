@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/26ae4f4817004aa2b48f215b22854a74/artifacts
+end_time: 1744599461895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26ae4f4817004aa2b48f215b22854a74
+run_name: respected-flea-780
+run_uuid: 26ae4f4817004aa2b48f215b22854a74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744598774610
+status: 3
+tags: []
+user_id: vscode

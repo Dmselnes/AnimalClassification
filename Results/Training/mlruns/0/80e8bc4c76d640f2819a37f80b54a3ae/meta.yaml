@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/80e8bc4c76d640f2819a37f80b54a3ae/artifacts
+end_time: 1744571420984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80e8bc4c76d640f2819a37f80b54a3ae
+run_name: tasteful-zebra-757
+run_uuid: 80e8bc4c76d640f2819a37f80b54a3ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744570988123
+status: 3
+tags: []
+user_id: vscode

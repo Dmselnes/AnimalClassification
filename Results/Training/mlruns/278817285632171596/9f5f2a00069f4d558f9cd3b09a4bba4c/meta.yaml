@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278817285632171596/9f5f2a00069f4d558f9cd3b09a4bba4c/artifacts
+end_time: 1744770817697
+entry_point_name: ''
+experiment_id: '278817285632171596'
+lifecycle_stage: active
+run_id: 9f5f2a00069f4d558f9cd3b09a4bba4c
+run_name: burly-shrew-673
+run_uuid: 9f5f2a00069f4d558f9cd3b09a4bba4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744767137513
+status: 3
+tags: []
+user_id: vscode

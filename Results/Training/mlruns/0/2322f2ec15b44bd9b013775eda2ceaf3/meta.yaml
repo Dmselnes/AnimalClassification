@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2322f2ec15b44bd9b013775eda2ceaf3/artifacts
+end_time: 1744574444654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2322f2ec15b44bd9b013775eda2ceaf3
+run_name: salty-grouse-879
+run_uuid: 2322f2ec15b44bd9b013775eda2ceaf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744573756173
+status: 3
+tags: []
+user_id: vscode

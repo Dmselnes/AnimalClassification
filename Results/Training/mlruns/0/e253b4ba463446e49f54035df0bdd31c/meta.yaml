@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e253b4ba463446e49f54035df0bdd31c/artifacts
+end_time: 1744594613404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e253b4ba463446e49f54035df0bdd31c
+run_name: likeable-sloth-10
+run_uuid: e253b4ba463446e49f54035df0bdd31c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744593780931
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/206914922312665983/1c818738f54e400eb1915f928d21fd1c/artifacts
+deleted_time: 1744664156242
+end_time: 1744663945070
+entry_point_name: ''
+experiment_id: '206914922312665983'
+lifecycle_stage: deleted
+run_id: 1c818738f54e400eb1915f928d21fd1c
+run_name: mysterious-shark-66
+run_uuid: 1c818738f54e400eb1915f928d21fd1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744663934541
+status: 4
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/33d43b5f7de84634beb80e3b095698d3/artifacts
+end_time: 1744570429815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33d43b5f7de84634beb80e3b095698d3
+run_name: inquisitive-fawn-876
+run_uuid: 33d43b5f7de84634beb80e3b095698d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744570272201
+status: 3
+tags: []
+user_id: vscode

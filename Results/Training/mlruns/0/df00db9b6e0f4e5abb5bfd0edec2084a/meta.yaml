@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/df00db9b6e0f4e5abb5bfd0edec2084a/artifacts
+end_time: 1744595999962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df00db9b6e0f4e5abb5bfd0edec2084a
+run_name: shivering-jay-532
+run_uuid: df00db9b6e0f4e5abb5bfd0edec2084a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744595807346
+status: 3
+tags: []
+user_id: vscode

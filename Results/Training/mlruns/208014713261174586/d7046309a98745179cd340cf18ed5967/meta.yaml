@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/208014713261174586/d7046309a98745179cd340cf18ed5967/artifacts
+end_time: 1745066977998
+entry_point_name: ''
+experiment_id: '208014713261174586'
+lifecycle_stage: active
+run_id: d7046309a98745179cd340cf18ed5967
+run_name: abrasive-stoat-465
+run_uuid: d7046309a98745179cd340cf18ed5967
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744972656895
+status: 3
+tags: []
+user_id: vscode

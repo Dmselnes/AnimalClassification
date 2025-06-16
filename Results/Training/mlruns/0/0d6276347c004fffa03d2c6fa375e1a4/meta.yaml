@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0d6276347c004fffa03d2c6fa375e1a4/artifacts
+deleted_time: 1744657956237
+end_time: 1744614179481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0d6276347c004fffa03d2c6fa375e1a4
+run_name: rebellious-sow-695
+run_uuid: 0d6276347c004fffa03d2c6fa375e1a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744614167212
+status: 4
+tags: []
+user_id: vscode

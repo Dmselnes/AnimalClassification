@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0f32d3a5e96249dfb08c214f0b4812a5/artifacts
+end_time: 1744574596677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f32d3a5e96249dfb08c214f0b4812a5
+run_name: gentle-tern-691
+run_uuid: 0f32d3a5e96249dfb08c214f0b4812a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744574444673
+status: 3
+tags: []
+user_id: vscode

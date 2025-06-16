@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/343779871732814728/48ab5b69a10446a49638461df28f312b/artifacts
+end_time: 1744825021876
+entry_point_name: ''
+experiment_id: '343779871732814728'
+lifecycle_stage: active
+run_id: 48ab5b69a10446a49638461df28f312b
+run_name: vit-base-patch16-384_lr5em05_seed42_ep30_bs8
+run_uuid: 48ab5b69a10446a49638461df28f312b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744818285220
+status: 3
+tags: []
+user_id: vscode

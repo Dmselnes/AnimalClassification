@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a7d7afe2248d4d499f2e771dfea97a65/artifacts
+deleted_time: 1744569723435
+end_time: 1744569521815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a7d7afe2248d4d499f2e771dfea97a65
+run_name: resilient-stork-907
+run_uuid: a7d7afe2248d4d499f2e771dfea97a65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744569366561
+status: 3
+tags: []
+user_id: vscode

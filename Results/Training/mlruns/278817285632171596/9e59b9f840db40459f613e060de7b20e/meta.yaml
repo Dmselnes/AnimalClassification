@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278817285632171596/9e59b9f840db40459f613e060de7b20e/artifacts
+end_time: 1744767137488
+entry_point_name: ''
+experiment_id: '278817285632171596'
+lifecycle_stage: active
+run_id: 9e59b9f840db40459f613e060de7b20e
+run_name: respected-ox-43
+run_uuid: 9e59b9f840db40459f613e060de7b20e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744763542946
+status: 3
+tags: []
+user_id: vscode

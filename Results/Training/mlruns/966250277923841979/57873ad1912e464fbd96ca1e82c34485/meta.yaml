@@ -1,0 +1,16 @@
+artifact_uri: file:///workspace/mlruns/966250277923841979/57873ad1912e464fbd96ca1e82c34485/artifacts
+deleted_time: 1746035442105
+end_time: 1746035424567
+entry_point_name: ''
+experiment_id: '966250277923841979'
+lifecycle_stage: deleted
+run_id: 57873ad1912e464fbd96ca1e82c34485
+run_name: nebulous-bat-86
+run_uuid: 57873ad1912e464fbd96ca1e82c34485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746025952247
+status: 4
+tags: []
+user_id: vscode

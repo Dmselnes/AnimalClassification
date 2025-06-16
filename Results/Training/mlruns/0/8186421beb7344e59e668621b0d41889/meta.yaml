@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8186421beb7344e59e668621b0d41889/artifacts
+end_time: 1744593780914
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8186421beb7344e59e668621b0d41889
+run_name: mercurial-flea-578
+run_uuid: 8186421beb7344e59e668621b0d41889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744593261677
+status: 3
+tags: []
+user_id: vscode

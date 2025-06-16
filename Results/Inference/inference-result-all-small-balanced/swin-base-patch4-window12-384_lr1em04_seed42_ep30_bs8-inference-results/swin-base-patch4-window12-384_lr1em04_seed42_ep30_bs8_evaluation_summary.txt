@@ -1,0 +1,51 @@
+
+=== Evaluation Summary ===
+Total Images: 24867
+Correct Predictions: 23144
+Overall Accuracy: 93.07%
+Throughput: 23.84 images/sec
+
+=== Per-Class Accuracy & Distribution ===
+Class                            Accuracy    Correct      Total   % of Total
+--------------------------------------------------------------------------------
+annet mardyr                      100.00%          4          4        0.02%
+bja rn                            100.00%         17         17        0.07%
+blameis                            75.00%          3          4        0.02%
+bokfink                           100.00%          2          2        0.01%
+duetrost                          100.00%          2          2        0.01%
+ekorn                              87.59%        755        862        3.47%
+elg                                96.82%       2103       2172        8.73%
+fugl                               75.32%        766       1017        4.09%
+gaupe                              97.04%        558        575        2.31%
+gratrost                           85.71%          6          7        0.03%
+grevling                           94.39%       2808       2975       11.96%
+hare                               91.37%       1694       1854        7.46%
+hjort                              95.10%       1476       1552        6.24%
+jerpe                              88.89%          8          9        0.04%
+jerv                               97.50%         39         40        0.16%
+katt                               96.31%        235        244        0.98%
+kja ttmeis                         92.31%         36         39        0.16%
+maltrost                           88.89%         16         18        0.07%
+mar                                90.99%        313        344        1.38%
+meis sp.                           55.56%          5          9        0.04%
+na tteskrike                       75.00%          6          8        0.03%
+orrfugl                           100.00%          6          6        0.02%
+ra dvingetrost                     71.43%          5          7        0.03%
+radyr                              93.98%       7851       8354       33.59%
+ravn                               87.50%          7          8        0.03%
+rev                                91.88%       2974       3237       13.02%
+ringdue                            88.10%         37         42        0.17%
+rugde                              82.93%         34         41        0.16%
+sa rhare                           88.89%          8          9        0.04%
+sau                                98.38%        730        742        2.98%
+skjare                            100.00%         25         25        0.10%
+skogsha ns                         87.10%         54         62        0.25%
+smagnager                          97.22%        105        108        0.43%
+storfe                             98.55%         68         69        0.28%
+storfugl                           92.54%         62         67        0.27%
+svartspett                        100.00%          3          3        0.01%
+svarttrost                         92.11%         70         76        0.31%
+trane                             100.00%          4          4        0.02%
+trost sp.                          88.89%         16         18        0.07%
+ulv                                98.93%        185        187        0.75%
+villsvin                          100.00%         48         48        0.19%

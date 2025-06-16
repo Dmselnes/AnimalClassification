@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1e791efbd26c48119abbe6bd6a4ac970/artifacts
+end_time: 1744591256339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e791efbd26c48119abbe6bd6a4ac970
+run_name: mercurial-moth-740
+run_uuid: 1e791efbd26c48119abbe6bd6a4ac970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744591104047
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278817285632171596/0cf21e39cbbf4bc7b3bee25cdb98656e/artifacts
+end_time: 1744756988731
+entry_point_name: ''
+experiment_id: '278817285632171596'
+lifecycle_stage: active
+run_id: 0cf21e39cbbf4bc7b3bee25cdb98656e
+run_name: bedecked-midge-97
+run_uuid: 0cf21e39cbbf4bc7b3bee25cdb98656e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744753925903
+status: 3
+tags: []
+user_id: vscode

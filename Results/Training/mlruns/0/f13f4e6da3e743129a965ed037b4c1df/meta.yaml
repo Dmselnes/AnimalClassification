@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f13f4e6da3e743129a965ed037b4c1df/artifacts
+end_time: 1744581261345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f13f4e6da3e743129a965ed037b4c1df
+run_name: clumsy-calf-667
+run_uuid: f13f4e6da3e743129a965ed037b4c1df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744580746352
+status: 3
+tags: []
+user_id: vscode

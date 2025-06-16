@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/479007200546580569/7e66ee80527240aba11e7a6c2672b5af/artifacts
+end_time: 1744789660664
+entry_point_name: ''
+experiment_id: '479007200546580569'
+lifecycle_stage: active
+run_id: 7e66ee80527240aba11e7a6c2672b5af
+run_name: popular-donkey-558
+run_uuid: 7e66ee80527240aba11e7a6c2672b5af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744789479125
+status: 3
+tags: []
+user_id: vscode

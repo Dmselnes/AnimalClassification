@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278817285632171596/8640ce7d56244f6298df36cd55333ef8/artifacts
+end_time: 1744774372981
+entry_point_name: ''
+experiment_id: '278817285632171596'
+lifecycle_stage: active
+run_id: 8640ce7d56244f6298df36cd55333ef8
+run_name: aged-crow-751
+run_uuid: 8640ce7d56244f6298df36cd55333ef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744770817721
+status: 3
+tags: []
+user_id: vscode

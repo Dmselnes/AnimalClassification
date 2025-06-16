@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4672291f02894b4c9c563a194f63d14d/artifacts
+end_time: 1744586941145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4672291f02894b4c9c563a194f63d14d
+run_name: useful-shrew-238
+run_uuid: 4672291f02894b4c9c563a194f63d14d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744586257969
+status: 3
+tags: []
+user_id: vscode

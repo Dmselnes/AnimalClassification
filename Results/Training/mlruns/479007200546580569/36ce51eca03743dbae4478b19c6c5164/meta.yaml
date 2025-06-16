@@ -1,0 +1,16 @@
+artifact_uri: file:///workspace/mlruns/479007200546580569/36ce51eca03743dbae4478b19c6c5164/artifacts
+deleted_time: 1744790270144
+end_time: 1744788490040
+entry_point_name: ''
+experiment_id: '479007200546580569'
+lifecycle_stage: deleted
+run_id: 36ce51eca03743dbae4478b19c6c5164
+run_name: adventurous-ape-292
+run_uuid: 36ce51eca03743dbae4478b19c6c5164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744788451224
+status: 4
+tags: []
+user_id: vscode

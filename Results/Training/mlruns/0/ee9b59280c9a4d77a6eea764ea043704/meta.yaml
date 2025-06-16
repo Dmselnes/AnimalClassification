@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ee9b59280c9a4d77a6eea764ea043704/artifacts
+deleted_time: 1744570455228
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ee9b59280c9a4d77a6eea764ea043704
+run_name: glamorous-ram-182
+run_uuid: ee9b59280c9a4d77a6eea764ea043704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744570155100
+status: 1
+tags: []
+user_id: vscode

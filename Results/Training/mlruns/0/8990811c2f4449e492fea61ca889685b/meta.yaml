@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8990811c2f4449e492fea61ca889685b/artifacts
+deleted_time: 1744657955357
+end_time: 1744640721622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8990811c2f4449e492fea61ca889685b
+run_name: angry-rat-147
+run_uuid: 8990811c2f4449e492fea61ca889685b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744637739207
+status: 3
+tags: []
+user_id: vscode

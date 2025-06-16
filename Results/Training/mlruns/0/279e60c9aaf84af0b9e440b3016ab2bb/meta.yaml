@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/279e60c9aaf84af0b9e440b3016ab2bb/artifacts
+end_time: 1744580106608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 279e60c9aaf84af0b9e440b3016ab2bb
+run_name: adventurous-fish-784
+run_uuid: 279e60c9aaf84af0b9e440b3016ab2bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744579745585
+status: 3
+tags: []
+user_id: vscode

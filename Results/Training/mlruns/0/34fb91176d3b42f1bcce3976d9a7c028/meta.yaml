@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/34fb91176d3b42f1bcce3976d9a7c028/artifacts
+end_time: 1744572929290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34fb91176d3b42f1bcce3976d9a7c028
+run_name: popular-shrew-383
+run_uuid: 34fb91176d3b42f1bcce3976d9a7c028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744572409181
+status: 3
+tags: []
+user_id: vscode

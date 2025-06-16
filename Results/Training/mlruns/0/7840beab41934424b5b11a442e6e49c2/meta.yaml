@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7840beab41934424b5b11a442e6e49c2/artifacts
+deleted_time: 1744569351998
+end_time: 1744568670295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7840beab41934424b5b11a442e6e49c2
+run_name: spiffy-vole-482
+run_uuid: 7840beab41934424b5b11a442e6e49c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744568517166
+status: 4
+tags: []
+user_id: vscode

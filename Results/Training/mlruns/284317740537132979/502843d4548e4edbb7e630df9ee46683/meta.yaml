@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/284317740537132979/502843d4548e4edbb7e630df9ee46683/artifacts
+end_time: 1744888294639
+entry_point_name: ''
+experiment_id: '284317740537132979'
+lifecycle_stage: active
+run_id: 502843d4548e4edbb7e630df9ee46683
+run_name: unleashed-eel-979
+run_uuid: 502843d4548e4edbb7e630df9ee46683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744882346626
+status: 3
+tags: []
+user_id: vscode

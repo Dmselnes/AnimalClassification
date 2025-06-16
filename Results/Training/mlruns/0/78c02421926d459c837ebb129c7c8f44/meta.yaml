@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/78c02421926d459c837ebb129c7c8f44/artifacts
+deleted_time: 1744568505195
+end_time: 1744567082870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 78c02421926d459c837ebb129c7c8f44
+run_name: intrigued-kite-164
+run_uuid: 78c02421926d459c837ebb129c7c8f44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744567073587
+status: 4
+tags: []
+user_id: vscode

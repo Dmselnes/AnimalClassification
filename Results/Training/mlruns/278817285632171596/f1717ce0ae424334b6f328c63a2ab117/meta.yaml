@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/278817285632171596/f1717ce0ae424334b6f328c63a2ab117/artifacts
+deleted_time: 1744747886337
+end_time: 1744747679316
+entry_point_name: ''
+experiment_id: '278817285632171596'
+lifecycle_stage: deleted
+run_id: f1717ce0ae424334b6f328c63a2ab117
+run_name: clumsy-foal-21
+run_uuid: f1717ce0ae424334b6f328c63a2ab117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744747668795
+status: 4
+tags: []
+user_id: vscode

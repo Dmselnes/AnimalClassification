@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/966250277923841979/cff89553122b4b858cd6d8ca0611227d/artifacts
+end_time: 1745661452578
+entry_point_name: ''
+experiment_id: '966250277923841979'
+lifecycle_stage: active
+run_id: cff89553122b4b858cd6d8ca0611227d
+run_name: stylish-foal-287
+run_uuid: cff89553122b4b858cd6d8ca0611227d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745568434833
+status: 3
+tags: []
+user_id: vscode

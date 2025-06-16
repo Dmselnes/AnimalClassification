@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b3e2c394a93a402cb6b1e9105a28b7f8/artifacts
+end_time: 1744583282015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3e2c394a93a402cb6b1e9105a28b7f8
+run_name: aged-shark-683
+run_uuid: b3e2c394a93a402cb6b1e9105a28b7f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744583049737
+status: 3
+tags: []
+user_id: vscode

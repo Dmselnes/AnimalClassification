@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e18314a61bcd4772b718e1a7da1584ac/artifacts
+end_time: 1744591385323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e18314a61bcd4772b718e1a7da1584ac
+run_name: sedate-hen-466
+run_uuid: e18314a61bcd4772b718e1a7da1584ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744591256359
+status: 3
+tags: []
+user_id: vscode

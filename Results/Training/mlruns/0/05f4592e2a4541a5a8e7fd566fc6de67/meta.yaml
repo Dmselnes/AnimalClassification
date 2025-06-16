@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/05f4592e2a4541a5a8e7fd566fc6de67/artifacts
+deleted_time: 1744568505153
+end_time: 1744567415723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 05f4592e2a4541a5a8e7fd566fc6de67
+run_name: amazing-frog-644
+run_uuid: 05f4592e2a4541a5a8e7fd566fc6de67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744567387784
+status: 4
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0e3f149347f64164b2170c8abf6589ba/artifacts
+end_time: 1744616890090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e3f149347f64164b2170c8abf6589ba
+run_name: thundering-smelt-29
+run_uuid: 0e3f149347f64164b2170c8abf6589ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744616736047
+status: 3
+tags: []
+user_id: vscode

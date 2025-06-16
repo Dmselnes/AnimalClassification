@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f61ffc09cf8141a88f21132993ceb439/artifacts
+end_time: 1744574725628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f61ffc09cf8141a88f21132993ceb439
+run_name: chill-fowl-128
+run_uuid: f61ffc09cf8141a88f21132993ceb439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744574596697
+status: 3
+tags: []
+user_id: vscode

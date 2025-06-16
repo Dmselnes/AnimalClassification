@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/eb1a7318ffad4e2c9ae0e42a1a62b913/artifacts
+deleted_time: 1744657955378
+end_time: 1744618995462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: eb1a7318ffad4e2c9ae0e42a1a62b913
+run_name: dapper-calf-282
+run_uuid: eb1a7318ffad4e2c9ae0e42a1a62b913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744618983159
+status: 4
+tags: []
+user_id: vscode

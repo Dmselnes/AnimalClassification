@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/f3aac48c04774e2db00aadd31bde6978/artifacts
+deleted_time: 1744657955791
+end_time: 1744614546093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f3aac48c04774e2db00aadd31bde6978
+run_name: spiffy-auk-237
+run_uuid: f3aac48c04774e2db00aadd31bde6978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744614533680
+status: 4
+tags: []
+user_id: vscode

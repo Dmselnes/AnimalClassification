@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3fa1bbb1a65b4510a6be7ceb326a6e1d/artifacts
+end_time: 1744591830053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3fa1bbb1a65b4510a6be7ceb326a6e1d
+run_name: dashing-zebra-252
+run_uuid: 3fa1bbb1a65b4510a6be7ceb326a6e1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744591620196
+status: 3
+tags: []
+user_id: vscode

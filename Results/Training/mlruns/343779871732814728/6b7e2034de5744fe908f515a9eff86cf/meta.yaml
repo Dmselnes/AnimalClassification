@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/343779871732814728/6b7e2034de5744fe908f515a9eff86cf/artifacts
+end_time: 1744849747215
+entry_point_name: ''
+experiment_id: '343779871732814728'
+lifecycle_stage: active
+run_id: 6b7e2034de5744fe908f515a9eff86cf
+run_name: swin-base-patch4-window12-384_lr5em05_seed42_ep30_bs8
+run_uuid: 6b7e2034de5744fe908f515a9eff86cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744840846240
+status: 3
+tags: []
+user_id: vscode

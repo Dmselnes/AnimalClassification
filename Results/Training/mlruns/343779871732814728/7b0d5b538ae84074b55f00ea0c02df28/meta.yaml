@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/343779871732814728/7b0d5b538ae84074b55f00ea0c02df28/artifacts
+end_time: 1744804715434
+entry_point_name: ''
+experiment_id: '343779871732814728'
+lifecycle_stage: active
+run_id: 7b0d5b538ae84074b55f00ea0c02df28
+run_name: deit-base-patch16-384_lr5em05_seed42_ep30_bs8
+run_uuid: 7b0d5b538ae84074b55f00ea0c02df28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744797932200
+status: 3
+tags: []
+user_id: vscode

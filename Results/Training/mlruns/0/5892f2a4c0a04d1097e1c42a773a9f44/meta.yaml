@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5892f2a4c0a04d1097e1c42a773a9f44/artifacts
+end_time: 1744599618056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5892f2a4c0a04d1097e1c42a773a9f44
+run_name: bedecked-hen-586
+run_uuid: 5892f2a4c0a04d1097e1c42a773a9f44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744599461917
+status: 3
+tags: []
+user_id: vscode

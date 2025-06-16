@@ -1,0 +1,23 @@
+
+=== Evaluation Summary ===
+Total Images: 22299
+Correct Predictions: 21476
+Overall Accuracy: 96.31%
+Throughput: 159.25 images/sec
+
+=== Per-Class Accuracy & Distribution ===
+Class                            Accuracy    Correct      Total   % of Total
+--------------------------------------------------------------------------------
+bear                              100.00%          2          2        0.01%
+bird                               92.74%        881        950        4.26%
+boar                              100.00%          7          7        0.03%
+capreolinae                        96.74%       1956       2022        9.07%
+deer                               96.23%       1351       1404        6.30%
+farm animal                        98.01%        591        603        2.70%
+feline                             91.91%        477        519        2.33%
+fox                                94.36%       2913       3087       13.84%
+lepus                              95.19%       1623       1705        7.65%
+mustelid                           97.62%       2959       3031       13.59%
+rodent                             84.62%        616        728        3.26%
+roe deer                           98.31%       8065       8204       36.79%
+wolf                               94.59%         35         37        0.17%

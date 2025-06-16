@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/797e9bc76ce64dde8301ed8d5025fcef/artifacts
+deleted_time: 1744664768576
+end_time: 1744661889880
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 797e9bc76ce64dde8301ed8d5025fcef
+run_name: dashing-shrimp-627
+run_uuid: 797e9bc76ce64dde8301ed8d5025fcef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744661879732
+status: 4
+tags: []
+user_id: vscode

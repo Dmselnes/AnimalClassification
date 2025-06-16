@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3ae62245ed514b2abd6f4d1c1e25c94b/artifacts
+end_time: 1744570792140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ae62245ed514b2abd6f4d1c1e25c94b
+run_name: capricious-bug-610
+run_uuid: 3ae62245ed514b2abd6f4d1c1e25c94b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744570560094
+status: 3
+tags: []
+user_id: vscode

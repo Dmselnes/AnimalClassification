@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278817285632171596/7b6e55edbd8b466597599d5d46a282f1/artifacts
+end_time: 1744753925881
+entry_point_name: ''
+experiment_id: '278817285632171596'
+lifecycle_stage: active
+run_id: 7b6e55edbd8b466597599d5d46a282f1
+run_name: omniscient-hawk-102
+run_uuid: 7b6e55edbd8b466597599d5d46a282f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744750891153
+status: 3
+tags: []
+user_id: vscode

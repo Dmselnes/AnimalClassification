@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4175334e76464f6792f8c9212c44b164/artifacts
+end_time: 1744591620176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4175334e76464f6792f8c9212c44b164
+run_name: zealous-rat-611
+run_uuid: 4175334e76464f6792f8c9212c44b164
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744591385344
+status: 3
+tags: []
+user_id: vscode

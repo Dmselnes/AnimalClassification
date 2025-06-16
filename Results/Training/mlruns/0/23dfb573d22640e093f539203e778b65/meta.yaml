@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/23dfb573d22640e093f539203e778b65/artifacts
+deleted_time: 1744568505217
+end_time: 1744567233810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 23dfb573d22640e093f539203e778b65
+run_name: judicious-hen-789
+run_uuid: 23dfb573d22640e093f539203e778b65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744567223348
+status: 4
+tags: []
+user_id: vscode

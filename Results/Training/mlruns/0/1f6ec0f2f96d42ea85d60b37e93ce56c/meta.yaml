@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1f6ec0f2f96d42ea85d60b37e93ce56c/artifacts
+end_time: 1744595290082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f6ec0f2f96d42ea85d60b37e93ce56c
+run_name: secretive-ant-133
+run_uuid: 1f6ec0f2f96d42ea85d60b37e93ce56c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744594613423
+status: 3
+tags: []
+user_id: vscode

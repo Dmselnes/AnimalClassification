@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9729af4e003f4fdfb3be3ebb8b4719d3/artifacts
+deleted_time: 1744657955359
+end_time: 1744637632307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9729af4e003f4fdfb3be3ebb8b4719d3
+run_name: worried-dog-965
+run_uuid: 9729af4e003f4fdfb3be3ebb8b4719d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744637631869
+status: 4
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/966250277923841979/1b9b9908ea6c46ad92753604a55b67d0/artifacts
+end_time: 1745481834290
+entry_point_name: ''
+experiment_id: '966250277923841979'
+lifecycle_stage: active
+run_id: 1b9b9908ea6c46ad92753604a55b67d0
+run_name: bittersweet-swan-37
+run_uuid: 1b9b9908ea6c46ad92753604a55b67d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745413537812
+status: 3
+tags: []
+user_id: vscode

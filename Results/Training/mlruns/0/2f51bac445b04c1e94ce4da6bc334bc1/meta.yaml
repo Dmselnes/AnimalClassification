@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2f51bac445b04c1e94ce4da6bc334bc1/artifacts
+deleted_time: 1744657955820
+end_time: 1744614346681
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2f51bac445b04c1e94ce4da6bc334bc1
+run_name: illustrious-pug-885
+run_uuid: 2f51bac445b04c1e94ce4da6bc334bc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744614334359
+status: 4
+tags: []
+user_id: vscode

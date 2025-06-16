@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e20c311cd192404ab4d4e706f07fdd01/artifacts
+deleted_time: 1744568505222
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e20c311cd192404ab4d4e706f07fdd01
+run_name: silent-dog-336
+run_uuid: e20c311cd192404ab4d4e706f07fdd01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744566950920
+status: 1
+tags: []
+user_id: vscode

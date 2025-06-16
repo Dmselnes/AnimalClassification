@@ -1,0 +1,16 @@
+artifact_uri: file:///workspace/mlruns/966250277923841979/a97959be9f9642acbaa437462099b1f3/artifacts
+deleted_time: 1746553725902
+end_time: null
+entry_point_name: ''
+experiment_id: '966250277923841979'
+lifecycle_stage: deleted
+run_id: a97959be9f9642acbaa437462099b1f3
+run_name: rebellious-snail-504
+run_uuid: a97959be9f9642acbaa437462099b1f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745481834317
+status: 1
+tags: []
+user_id: vscode

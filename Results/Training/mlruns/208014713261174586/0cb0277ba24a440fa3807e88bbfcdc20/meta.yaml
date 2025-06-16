@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/208014713261174586/0cb0277ba24a440fa3807e88bbfcdc20/artifacts
+end_time: 1745158207655
+entry_point_name: ''
+experiment_id: '208014713261174586'
+lifecycle_stage: active
+run_id: 0cb0277ba24a440fa3807e88bbfcdc20
+run_name: colorful-turtle-986
+run_uuid: 0cb0277ba24a440fa3807e88bbfcdc20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745066978049
+status: 3
+tags: []
+user_id: vscode

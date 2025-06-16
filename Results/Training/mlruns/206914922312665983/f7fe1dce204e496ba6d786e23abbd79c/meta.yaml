@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206914922312665983/f7fe1dce204e496ba6d786e23abbd79c/artifacts
+end_time: 1744730696946
+entry_point_name: ''
+experiment_id: '206914922312665983'
+lifecycle_stage: active
+run_id: f7fe1dce204e496ba6d786e23abbd79c
+run_name: gaudy-swan-36
+run_uuid: f7fe1dce204e496ba6d786e23abbd79c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744727917347
+status: 3
+tags: []
+user_id: vscode

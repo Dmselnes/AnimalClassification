@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278817285632171596/e1da44d9434e4291baeb110d04bb5d00/artifacts
+end_time: 1744759991269
+entry_point_name: ''
+experiment_id: '278817285632171596'
+lifecycle_stage: active
+run_id: e1da44d9434e4291baeb110d04bb5d00
+run_name: masked-stoat-91
+run_uuid: e1da44d9434e4291baeb110d04bb5d00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744756988753
+status: 3
+tags: []
+user_id: vscode

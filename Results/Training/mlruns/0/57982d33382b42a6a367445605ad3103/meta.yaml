@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/57982d33382b42a6a367445605ad3103/artifacts
+end_time: 1744599747323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57982d33382b42a6a367445605ad3103
+run_name: resilient-conch-608
+run_uuid: 57982d33382b42a6a367445605ad3103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744599618077
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c84de9e709c7446481a71ad2a8c3f69b/artifacts
+end_time: 1744588083764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c84de9e709c7446481a71ad2a8c3f69b
+run_name: exultant-whale-331
+run_uuid: c84de9e709c7446481a71ad2a8c3f69b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744587650340
+status: 3
+tags: []
+user_id: vscode

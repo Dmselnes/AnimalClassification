@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d8d978a22256493caa429adc551a8649/artifacts
+deleted_time: 1744568505192
+end_time: 1744567324852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d8d978a22256493caa429adc551a8649
+run_name: dapper-loon-721
+run_uuid: d8d978a22256493caa429adc551a8649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744567314295
+status: 4
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206914922312665983/6ac3122cd0e44272aaee957caa8d3522/artifacts
+end_time: 1744719024759
+entry_point_name: ''
+experiment_id: '206914922312665983'
+lifecycle_stage: active
+run_id: 6ac3122cd0e44272aaee957caa8d3522
+run_name: masked-shad-511
+run_uuid: 6ac3122cd0e44272aaee957caa8d3522
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744717639328
+status: 3
+tags: []
+user_id: vscode

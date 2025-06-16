@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/5b1860f9fe9447dfb84637028bf1c8ec/artifacts
+deleted_time: 1744657955816
+end_time: 1744614375767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5b1860f9fe9447dfb84637028bf1c8ec
+run_name: melodic-colt-538
+run_uuid: 5b1860f9fe9447dfb84637028bf1c8ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744614363433
+status: 4
+tags: []
+user_id: vscode

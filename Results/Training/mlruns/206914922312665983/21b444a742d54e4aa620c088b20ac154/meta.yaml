@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/206914922312665983/21b444a742d54e4aa620c088b20ac154/artifacts
+deleted_time: 1744664156270
+end_time: 1744662674579
+entry_point_name: ''
+experiment_id: '206914922312665983'
+lifecycle_stage: deleted
+run_id: 21b444a742d54e4aa620c088b20ac154
+run_name: bouncy-penguin-508
+run_uuid: 21b444a742d54e4aa620c088b20ac154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744662402423
+status: 4
+tags: []
+user_id: vscode

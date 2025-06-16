@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c5a41afd86e84a4f8542b927df3925bf/artifacts
+deleted_time: 1744657955342
+end_time: 1744656593996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c5a41afd86e84a4f8542b927df3925bf
+run_name: dazzling-donkey-476
+run_uuid: c5a41afd86e84a4f8542b927df3925bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744656580487
+status: 4
+tags: []
+user_id: vscode

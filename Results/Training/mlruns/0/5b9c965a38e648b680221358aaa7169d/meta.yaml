@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5b9c965a38e648b680221358aaa7169d/artifacts
+end_time: 1744600173879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b9c965a38e648b680221358aaa7169d
+run_name: polite-duck-761
+run_uuid: 5b9c965a38e648b680221358aaa7169d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744599979644
+status: 3
+tags: []
+user_id: vscode

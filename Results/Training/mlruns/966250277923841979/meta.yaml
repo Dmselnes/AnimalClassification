@@ -1,0 +1,6 @@
+artifact_location: file:///workspace/mlruns/966250277923841979
+creation_time: 1745413537746
+experiment_id: '966250277923841979'
+last_update_time: 1745413537746
+lifecycle_stage: active
+name: cnn-and-other-models-large

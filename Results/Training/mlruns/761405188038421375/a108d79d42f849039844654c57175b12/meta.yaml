@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/761405188038421375/a108d79d42f849039844654c57175b12/artifacts
+end_time: 1745341772330
+entry_point_name: ''
+experiment_id: '761405188038421375'
+lifecycle_stage: active
+run_id: a108d79d42f849039844654c57175b12
+run_name: treasured-mouse-243
+run_uuid: a108d79d42f849039844654c57175b12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745338506759
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/064274035d3c400a88f812fd6ad74f2f/artifacts
+deleted_time: 1744657955359
+end_time: 1744637227864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 064274035d3c400a88f812fd6ad74f2f
+run_name: righteous-lark-165
+run_uuid: 064274035d3c400a88f812fd6ad74f2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744637125180
+status: 4
+tags: []
+user_id: vscode

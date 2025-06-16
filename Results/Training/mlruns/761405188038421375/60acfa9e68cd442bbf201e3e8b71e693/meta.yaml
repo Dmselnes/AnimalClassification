@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/761405188038421375/60acfa9e68cd442bbf201e3e8b71e693/artifacts
+end_time: 1745356482641
+entry_point_name: ''
+experiment_id: '761405188038421375'
+lifecycle_stage: active
+run_id: 60acfa9e68cd442bbf201e3e8b71e693
+run_name: redolent-crow-15
+run_uuid: 60acfa9e68cd442bbf201e3e8b71e693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745350818496
+status: 3
+tags: []
+user_id: vscode

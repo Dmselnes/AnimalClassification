@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/278817285632171596/11448c8b4f5a48189cfce6bd407a4ee4/artifacts
+end_time: 1744763542923
+entry_point_name: ''
+experiment_id: '278817285632171596'
+lifecycle_stage: active
+run_id: 11448c8b4f5a48189cfce6bd407a4ee4
+run_name: chill-flea-93
+run_uuid: 11448c8b4f5a48189cfce6bd407a4ee4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744759991292
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/284317740537132979/8cb1b6401e594beda4b707fa77d61b69/artifacts
+end_time: 1744877887573
+entry_point_name: ''
+experiment_id: '284317740537132979'
+lifecycle_stage: active
+run_id: 8cb1b6401e594beda4b707fa77d61b69
+run_name: funny-fox-259
+run_uuid: 8cb1b6401e594beda4b707fa77d61b69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744873429378
+status: 3
+tags: []
+user_id: vscode

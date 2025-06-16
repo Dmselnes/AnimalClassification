@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/222a6aca4a514ea68eb00f6a0c4ced2b/artifacts
+deleted_time: 1744657955865
+end_time: 1744614272423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 222a6aca4a514ea68eb00f6a0c4ced2b
+run_name: salty-penguin-311
+run_uuid: 222a6aca4a514ea68eb00f6a0c4ced2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744614259560
+status: 4
+tags: []
+user_id: vscode

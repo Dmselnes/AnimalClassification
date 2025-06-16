@@ -1,0 +1,16 @@
+artifact_uri: file:///workspace/mlruns/479007200546580569/8374462da1574dd1a290911886456ee1/artifacts
+deleted_time: 1744790270113
+end_time: 1744789962177
+entry_point_name: ''
+experiment_id: '479007200546580569'
+lifecycle_stage: deleted
+run_id: 8374462da1574dd1a290911886456ee1
+run_name: gregarious-mole-838
+run_uuid: 8374462da1574dd1a290911886456ee1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744789937706
+status: 4
+tags: []
+user_id: vscode

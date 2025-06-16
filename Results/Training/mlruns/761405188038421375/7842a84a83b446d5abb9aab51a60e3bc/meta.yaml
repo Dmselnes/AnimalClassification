@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/761405188038421375/7842a84a83b446d5abb9aab51a60e3bc/artifacts
+end_time: 1745365067215
+entry_point_name: ''
+experiment_id: '761405188038421375'
+lifecycle_stage: active
+run_id: 7842a84a83b446d5abb9aab51a60e3bc
+run_name: sneaky-snipe-94
+run_uuid: 7842a84a83b446d5abb9aab51a60e3bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745358854826
+status: 3
+tags: []
+user_id: vscode

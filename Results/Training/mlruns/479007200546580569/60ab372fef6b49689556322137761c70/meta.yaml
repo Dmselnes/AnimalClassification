@@ -1,0 +1,16 @@
+artifact_uri: file:///workspace/mlruns/479007200546580569/60ab372fef6b49689556322137761c70/artifacts
+deleted_time: 1744790423774
+end_time: 1744790316964
+entry_point_name: ''
+experiment_id: '479007200546580569'
+lifecycle_stage: deleted
+run_id: 60ab372fef6b49689556322137761c70
+run_name: capable-grub-791
+run_uuid: 60ab372fef6b49689556322137761c70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744790267574
+status: 4
+tags: []
+user_id: vscode

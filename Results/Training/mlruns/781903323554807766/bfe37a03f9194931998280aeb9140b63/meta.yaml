@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/781903323554807766/bfe37a03f9194931998280aeb9140b63/artifacts
+end_time: 1744936305587
+entry_point_name: ''
+experiment_id: '781903323554807766'
+lifecycle_stage: active
+run_id: bfe37a03f9194931998280aeb9140b63
+run_name: smiling-whale-784
+run_uuid: bfe37a03f9194931998280aeb9140b63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744918057785
+status: 3
+tags: []
+user_id: vscode

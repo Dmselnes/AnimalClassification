@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ad7a22e86df34373908266d70ecbff89/artifacts
+deleted_time: 1744657966209
+end_time: 1744613947491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ad7a22e86df34373908266d70ecbff89
+run_name: burly-hound-782
+run_uuid: ad7a22e86df34373908266d70ecbff89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744613930667
+status: 4
+tags: []
+user_id: vscode

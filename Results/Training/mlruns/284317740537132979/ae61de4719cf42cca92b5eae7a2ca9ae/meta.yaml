@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/284317740537132979/ae61de4719cf42cca92b5eae7a2ca9ae/artifacts
+end_time: 1744882346602
+entry_point_name: ''
+experiment_id: '284317740537132979'
+lifecycle_stage: active
+run_id: ae61de4719cf42cca92b5eae7a2ca9ae
+run_name: bedecked-snipe-683
+run_uuid: ae61de4719cf42cca92b5eae7a2ca9ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744877887598
+status: 3
+tags: []
+user_id: vscode

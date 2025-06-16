@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/757115ed765c45c88a8cfd57d2c64aa7/artifacts
+end_time: 1744584899041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 757115ed765c45c88a8cfd57d2c64aa7
+run_name: bold-sow-228
+run_uuid: 757115ed765c45c88a8cfd57d2c64aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744584269121
+status: 3
+tags: []
+user_id: vscode

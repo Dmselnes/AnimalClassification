@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/206914922312665983/a3261a6de57c4370b706733a5d73e33f/artifacts
+end_time: 1744727917326
+entry_point_name: ''
+experiment_id: '206914922312665983'
+lifecycle_stage: active
+run_id: a3261a6de57c4370b706733a5d73e33f
+run_name: abrasive-squid-749
+run_uuid: a3261a6de57c4370b706733a5d73e33f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744725125079
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,16 @@
+artifact_uri: file:///workspace/mlruns/479007200546580569/ce8cf97b90544998924d0e9d9137f8b4/artifacts
+deleted_time: 1744790270121
+end_time: 1744789119530
+entry_point_name: ''
+experiment_id: '479007200546580569'
+lifecycle_stage: deleted
+run_id: ce8cf97b90544998924d0e9d9137f8b4
+run_name: persistent-mole-948
+run_uuid: ce8cf97b90544998924d0e9d9137f8b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744789093922
+status: 4
+tags: []
+user_id: vscode

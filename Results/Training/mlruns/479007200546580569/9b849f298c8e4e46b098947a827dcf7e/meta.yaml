@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/479007200546580569/9b849f298c8e4e46b098947a827dcf7e/artifacts
+end_time: 1744790837579
+entry_point_name: ''
+experiment_id: '479007200546580569'
+lifecycle_stage: active
+run_id: 9b849f298c8e4e46b098947a827dcf7e
+run_name: victorious-goose-328
+run_uuid: 9b849f298c8e4e46b098947a827dcf7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744790581295
+status: 3
+tags: []
+user_id: vscode

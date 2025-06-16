@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/479007200546580569/ca999fdb23514fca9aa26da3a7a2b79a/artifacts
+end_time: 1744790267551
+entry_point_name: ''
+experiment_id: '479007200546580569'
+lifecycle_stage: active
+run_id: ca999fdb23514fca9aa26da3a7a2b79a
+run_name: skittish-yak-92
+run_uuid: ca999fdb23514fca9aa26da3a7a2b79a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744790077267
+status: 3
+tags: []
+user_id: vscode

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8bb08c35280943929bd7de33757a3645/artifacts
+end_time: 1744582922176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bb08c35280943929bd7de33757a3645
+run_name: bedecked-hare-34
+run_uuid: 8bb08c35280943929bd7de33757a3645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744582769496
+status: 3
+tags: []
+user_id: vscode

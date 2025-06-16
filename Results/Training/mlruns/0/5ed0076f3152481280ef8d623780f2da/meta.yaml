@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5ed0076f3152481280ef8d623780f2da/artifacts
+end_time: 1744583049715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ed0076f3152481280ef8d623780f2da
+run_name: treasured-cub-764
+run_uuid: 5ed0076f3152481280ef8d623780f2da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744582922198
+status: 3
+tags: []
+user_id: vscode

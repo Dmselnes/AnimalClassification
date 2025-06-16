@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/243a4517e678464fab44e107c91f2d25/artifacts
+end_time: 1744586257948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 243a4517e678464fab44e107c91f2d25
+run_name: unleashed-cow-738
+run_uuid: 243a4517e678464fab44e107c91f2d25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744585424389
+status: 3
+tags: []
+user_id: vscode

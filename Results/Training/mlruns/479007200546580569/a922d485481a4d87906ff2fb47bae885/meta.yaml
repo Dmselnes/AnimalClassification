@@ -1,0 +1,16 @@
+artifact_uri: file:///workspace/mlruns/479007200546580569/a922d485481a4d87906ff2fb47bae885/artifacts
+deleted_time: 1744790270126
+end_time: 1744789458926
+entry_point_name: ''
+experiment_id: '479007200546580569'
+lifecycle_stage: deleted
+run_id: a922d485481a4d87906ff2fb47bae885
+run_name: bald-crane-992
+run_uuid: a922d485481a4d87906ff2fb47bae885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744789418216
+status: 4
+tags: []
+user_id: vscode

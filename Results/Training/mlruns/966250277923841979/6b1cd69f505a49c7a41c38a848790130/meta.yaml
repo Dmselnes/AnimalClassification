@@ -1,0 +1,15 @@
+artifact_uri: file:///workspace/mlruns/966250277923841979/6b1cd69f505a49c7a41c38a848790130/artifacts
+end_time: 1745957088981
+entry_point_name: ''
+experiment_id: '966250277923841979'
+lifecycle_stage: active
+run_id: 6b1cd69f505a49c7a41c38a848790130
+run_name: efficient-auk-336
+run_uuid: 6b1cd69f505a49c7a41c38a848790130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745827859926
+status: 3
+tags: []
+user_id: vscode
