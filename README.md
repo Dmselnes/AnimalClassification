@@ -36,3 +36,18 @@ mlflow ui --host 0.0.0.0 --port 8080
 
 ## Run inference with class wise accuracy reporting
 python ViT/inference-gpu-classwise-statistics.py --model-path "outputs/vit-swin-and-deit/vit-base-patch16-384_lr1em04_seed42_ep30_bs8" --model-name "google/vit-base-patch16-384" --image-folder "nina_images/testset/" --max-images 100
+
+# Results
+Results from the experiments can be found in the Results folder.
+
+## Inference
+Inference results are found in the inference folder.
+
+## Training results in mlflow UI
+The mlruns folder is found in the training folder.
+Run the following command:
+
+```
+python -m mlflow ui --backend-store-uri <path/to/mlruns>
+```
+Then navigate to http://127.0.0.1:5000/
