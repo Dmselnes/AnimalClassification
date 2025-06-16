@@ -1,3 +1,18 @@
+# Structure
+- The run-mlflo-... scripts are what was used for fine-tuning the models. They use the run_image_classification.py script which was modified from HuggingFace example code (https://github.com/huggingface/transformers/tree/main/examples/pytorch/image-classification).
+- Inference scripts are found in the ViT folder.
+- Code relating to the processing of the dataset is in the nina_images folder.
+- The visualizations folder contains scripts used to create plots and tables from the data collected.
+
+# Reproduce datasets
+In order to reproduce the datasets used, the dataprocessing scripts may be applied in the given order:
+- combine.py
+- structure.py
+- preprocessing.py
+- smallify.py (if wanting limited dataset)
+- split.py
+- augment.py (if using limited dataset and wanting augmentation to balance classes more)
+
 # Run mlflow experiments
 To track experiments, we can use mlflow run command.
 
@@ -19,5 +34,20 @@ python run-mlflow-othersmall-dataset-all-models-384-one-lr.py --experiment-name 
 ## Howto start the mlflow server
 mlflow ui --host 0.0.0.0 --port 8080
 
-## Run inference wit class wise accuracy reporting
+## Run inference with class wise accuracy reporting
 python ViT/inference-gpu-classwise-statistics.py --model-path "outputs/vit-swin-and-deit/vit-base-patch16-384_lr1em04_seed42_ep30_bs8" --model-name "google/vit-base-patch16-384" --image-folder "nina_images/testset/" --max-images 100
+
+# Results
+Results from the experiments can be found in the Results folder.
+
+## Inference
+Inference results are found in the inference folder.
+
+## Training results in mlflow UI
+The mlruns folder is found in the training folder.
+Run the following command:
+
+```
+python -m mlflow ui --backend-store-uri <path/to/mlruns>
+```
+Then navigate to http://127.0.0.1:5000/
