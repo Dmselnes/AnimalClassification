@@ -4,6 +4,15 @@
 - Code relating to the processing of the dataset is in the nina_images folder.
 - The visualizations folder contains scripts used to create plots and tables from the data collected.
 
+# Reproduce datasets
+In order to reproduce the datasets used, the dataprocessing scripts may be applied in the given order:
+- combine.py
+- structure.py
+- preprocessing.py
+- smallify.py (if wanting limited dataset)
+- split.py
+- augment.py (if using limited dataset and wanting augmentation to balance classes more)
+
 # Run mlflow experiments
 To track experiments, we can use mlflow run command.
 
